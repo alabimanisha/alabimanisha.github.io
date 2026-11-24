@@ -342,3 +342,7 @@
   white-space: normal;                // let long lines like "University of South Florida" wrap
   overflow-wrap: anywhere;
 }
+
+#main {
+  min-height: 100vh;
+}

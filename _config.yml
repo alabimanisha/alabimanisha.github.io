@@ -23,7 +23,7 @@ repository               : "alabimanisha/alabimanisha.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Alabi Mehzabin Anisha"
   pronouns         : 
   bio              : "Ph.D. Candidate, Bellini CAICC @ USF | Security of Vision Models"
